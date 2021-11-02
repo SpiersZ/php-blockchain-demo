@@ -6,5 +6,3 @@
 线上测试地址：http://api.rowen.work/
 
 api文档：https://documenter.getpostman.com/view/178447/SW17TFmS
-
-qq交流群: 920624832
